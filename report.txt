@@ -1,0 +1,14 @@
+             precision    recall  f1-score   support
+
+         人脸       0.90      0.84      0.87       300
+        非人脸       0.85      0.90      0.88       300
+
+avg / total       0.87      0.87      0.87       600
+
+
+             precision    recall  f1-score   support
+
+        人脸        0.86      0.79      0.82       200
+        非人脸       0.80      0.87      0.83       200
+
+avg / total       0.83      0.83      0.83       400
